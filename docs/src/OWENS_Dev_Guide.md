@@ -19,7 +19,7 @@ and can easily lead to confusion or mistake (like how the aerodynamics
 uses inflow data; is it just simple based on the mean hub velocity, or
 in the rotating blade frame of reference? If the latter, what is that
 frame of reference so that we make sure we don't incorrectly map the
-vectors?) This document is intended as a developers guide for the intent
+vectors?) This document is intended as a developers' guide for the intent
 of clearing up the relative ambiguity between the many moving and
 modular pieces. It is not a full theory document or users guide. For
 theory and use, please see the theory and user guides respectively.
